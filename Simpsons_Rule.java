@@ -13,7 +13,7 @@ class Simpsons_rule {
     Scanner input = new Scanner(System.in);
     
     System.out.println("");
-    System.out.println("This program finds the area Simpsons rule.");
+    System.out.println("This program finds the area using Simpsons Rule.");
     System.out.println("");
 
 System.out.println("");
