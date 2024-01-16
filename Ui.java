@@ -44,7 +44,7 @@ public class Ui extends Application {
       private void trapezoidalRule() {
 
         System.out.println("");
-        System.out.println("This program finds the area trapezoid rule.");
+        System.out.println("This program finds the area using the trapezoid rule.");
         System.out.println("");
     
         System.out.println("");
@@ -126,7 +126,7 @@ public class Ui extends Application {
     private void simpsonsRule() {
       
         System.out.println("");
-        System.out.println("This program finds the area Simpsons rule.");
+        System.out.println("This program finds the area using Simpsons rule.");
         System.out.println("");
     
     System.out.println("");
